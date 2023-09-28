@@ -2,6 +2,8 @@ import java.util.*;
 
 // test comment to see if editing online reflects local version
 
+// test comment to see if new branch worked
+
 public class AddressBook {
 
     private ArrayList<BuddyInfo> myBuddies;
