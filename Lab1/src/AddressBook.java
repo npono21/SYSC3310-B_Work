@@ -1,5 +1,7 @@
 import java.util.*;
 
+// test comment to see if editing online reflects local version
+
 public class AddressBook {
 
     private ArrayList<BuddyInfo> myBuddies;
